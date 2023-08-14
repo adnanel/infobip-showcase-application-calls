@@ -1,0 +1,10 @@
+{
+  "INFOBIP_API_KEY": "",
+  "INFOBIP_RTC_APPLICATION_ID": "",
+
+
+  "INFOBIP_API_HOST": "api.infobip.com",
+  "INFOBIP_RTC_TOKEN_PATH": "/webrtc/1/token",
+  "INFOBIP_RTC_DIALOG_PATH": "/calls/1/dialogs",
+  "INFOBIP_RTC_CALL_PATH": "/calls/1/calls"
+}

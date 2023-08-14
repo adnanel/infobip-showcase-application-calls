@@ -1,0 +1,6 @@
+POST {{host}}:{{port}}/call
+Content-Type: application/json
+
+{
+  "destination": "user1"
+}

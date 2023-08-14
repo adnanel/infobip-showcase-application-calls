@@ -1,0 +1,8 @@
+POST {{host}}:{{port}}/connect
+Content-Type: application/json
+
+{
+  "call": "bd60ec1d-3726-4dcd-bee6-a35dab88033c",
+  "to": "38763953xxx",
+  "from": "40371700xxx"
+}
